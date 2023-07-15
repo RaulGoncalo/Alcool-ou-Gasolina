@@ -1,0 +1,24 @@
+# Arquivos e pastas gerados automaticamente
+build/
+.dart_tool/
+.idea/
+.vscode/
+android/build/
+ios/Pods/
+
+# Arquivos de configuração sensíveis
+android/key.properties
+ios/Runner/GoogleService-Info.plist
+
+# Outros arquivos e pastas específicos do projeto
+# Adicione-os conforme necessário
+
+# Arquivos de cache do editor
+*.swp
+*.lock
+
+# Arquivos de dependências do Flutter
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub/
